@@ -1,0 +1,7 @@
+# config.yaml
+
+news-api:
+    url: 'http://newsapi.org/v2'
+
+ameritrade-api:
+    url: 'https://api.tdameritrade.com/v1'

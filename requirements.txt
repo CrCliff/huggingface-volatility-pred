@@ -5,3 +5,7 @@ numpy
 datetime
 sklearn
 jupyterlab
+wandb
+transformers>=4.11
+datasets>=1.12
+tensorflow

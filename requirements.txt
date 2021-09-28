@@ -6,6 +6,6 @@ datetime
 sklearn
 jupyterlab
 wandb
-transformers>=4.11
-datasets>=1.12
-tensorflow
+transformers>=4.11.0
+datasets>=1.12.0
+tensorflow>=2.4.1
